@@ -1,0 +1,15 @@
+# YOLO-Agent 依赖列表
+
+# Web框架
+Flask>=2.0.0
+Flask-CORS>=3.0.0
+
+# 目标检测
+ultralytics>=8.0.0
+
+# 图像处理
+opencv-python>=4.5.0
+numpy>=1.21.0
+
+# 其他
+Pillow>=8.0.0
